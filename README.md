@@ -10,4 +10,4 @@ The `data` folder contains three data files.
   - `np` is the response coded on a three-point scale, where +1 indicates support (strongly or somewhat) and -1 indicates opposition (strongly or somewhat). "Don't know enough to say" responses are coded as zeros.
   - `sup` indicates whether the respondent supports the policy. It takes a value of 1 when the respondent supports the policy, a zero when the respondent opposes ("Don't know enough to say" are coded as missing).
 
-The `syntax` folder contains 
+The `syntax` folder contains one file `replication_code.R` that includes all the R code necessary to replicate the figures and table from the paper. 
