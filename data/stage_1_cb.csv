@@ -1,0 +1,100 @@
+item,policy,type
+20_loop1,Ban import of any produce that can be produced locally.,limit
+16_loop2,Ban the production of carbon-intensive food.,limit
+17_loop2,Ban carbon-intensive cattle farming and dairy production.,limit
+18_loop1,Set legal limits on how much meat can be produced.,limit
+18_loop2,Set limits on dairy production.,limit
+15_loop3,Require farmers to absorb and store carbon in the soil.,geoengineering
+17_loop3,Require farmers use alternative feeds (like seaweed) to reduce their emissions.*,require
+19_loop1,Subsidize the purchase of food production with a low carbon footprint.,subsidy
+15_loop2,Pay farmers for land use that increase carbon storage in the soil.,geoengineering
+19_loop2,Remove subsidies for the cattle industry.,subsidy
+20_loop2,Provide subsidies for locally produced food.,subsidy
+16_loop3,Provide subsidies for farmers to reduce their emissions.,subsidy
+16_loop1,Remove subsidies for farmers using carbon-intensive practices.,tax
+17_loop1,Tax food production according to its carbon emissions.,tax
+21_loop1,Increase taxes on imported vegetables and fruits.,tax
+18_loop3,Tax the sale of dairy products.,tax
+19_loop3,Tax the sale of meat.,tax
+20_loop3,Increase taxes on imported food which could be farmed locally.,tax
+2_loop1,Ban the production and sale of gas appliances.,limit
+6_loop2,Fund programs to provide information on the climate impacts of products.,funding
+25_loop3,Fund research into carbon neutral products,funding
+1_loop1,Require new home appliances be more energy-efficient.,require
+4_loop1,Increase heating and cooling efficiency standards in residential buildings.,require
+3_loop3,Require new homes are built to be more energy-efficient.,require
+24_loop3,"Require that new buildings use only low-carbon heating systems (e.g., heat pumps).",require
+26_loop3,Require schools teach about the causes and consequences of global warming.,require
+25_loop1,"Provide subsidies for low-carbon heating systems (e.g., heat pumps).",subsidy
+27_loop1,Provide subsidies for education programs about the causes and consequences of global warming.,subsidy
+1_loop2,Subsidize purchases of more energy-efficient home appliances.,subsidy
+4_loop2,Provide subsidies for improving insulation in residential buildings.,subsidy
+2_loop3,Subsidize the purchase of electric alternativies for lawn and garden equipment like lawnmowers.,subsidy
+1_loop3,Provide tax credits for purchases of more energy-efficient home appliances.,subsidy
+3_loop2,Remove subsidies for carbon-intensive construction.,tax
+3_loop1,Increase taxes on gas appliances.,tax
+30_loop1,Increase taxes on very large homes.,tax
+2_loop2,Increase taxes on the sale of inefficient home appliances.,tax
+25_loop2,"Impose a tax on oil, gas, and coal heating systems.",tax
+29_loop3,Increase taxes on second homes.,tax
+12_loop1,Fund research into renewable energy sources.,funding
+9_loop3,Fund the construction of new nuclear power plants.,funding
+11_loop1,Set strict CO2 limits on power plants that use oil and coal,limit
+10_loop2,Set strict CO2 limits on power plants that use natural gas,limit
+10_loop1,Require electricity companies to use more nuclear power.,require
+11_loop3,Require electricity companies to use more solar energy.,require
+12_loop3,Require electricity companies to use more wind farms.,require
+14_loop1,Subsidize electricity generation from solar energy.,subsidy
+34_loop1,Subsidize electricity generation from off-shore wind farms.,subsidy
+11_loop2,Subsidize electricity generation from nuclear power.,subsidy
+13_loop2,Remove subsidies for oil and coal production.,subsidy
+14_loop2,Subsidize electricity generation from wind farms.,subsidy
+13_loop3,Provide subsidies for fossil fuel companies to produce clean alternative energy.,subsidy
+13_loop1,Remove subsidies for natural gas production.,tax
+15_loop1,Tax the production of oil and coal,tax
+12_loop2,Increase taxes for power plants using coal and oil.,tax
+21_loop2,Increase taxes on aviation fuel.,tax
+10_loop3,Increase taxes for natural gas power plants.,tax
+14_loop3,Tax the production of natural gas.,tax
+22_loop1,Fund research into new ways to block solar radiation,geoengineering
+22_loop2,Fund research into new ways to capture carbon,geoengineering
+23_loop1,"Inject sea salt into the air above the oceans to increase the reflectivity of clouds, leading to cooling effects.",geoengineering
+24_loop1,Plant trees to absorb carbon emissions in the atmosphere.,geoengineering
+23_loop2,"Intentionally add dust to the atmosphere, to reflect sunlight back into space to cool the planet.",geoengineering
+24_loop2,Use chemical processes to capture carbon from the air.,geoengineering
+22_loop3,Fertilize the oceans to make algae grow and accelerate carbon capture from the atmosphere.,geoengineering
+23_loop3,Place objects in space to block solar radiation entering the atmosphere.,geoengineering
+5_loop2,Require companies reduce their carbon emissions.,limit
+4_loop3,Require businesses to capture and store their carbon emissions.,require
+6_loop3,Require businesses to provide more information about their products' climate impact.,require
+5_loop1,Give businesses subsidies for capturing and storing their carbon emissions.,subsidy
+7_loop1,Give businesses subsidies for informing consumers about their products' climate impacts.,subsidy
+5_loop3,Give businesses subsidies for reducing their carbon emissions.,subsidy
+6_loop1,Require businesses to pay a tax on their carbon emissions.,tax
+7_loop2,Allow electric vehicles with only one occupant in high-occupancy vehicle lanes.,require
+8_loop1,Increase the number of high-occupancy vehicle lanes for vehicles with 3+ people.,require
+7_loop3,Ban non-essential traffic of personal cars in city centers.,limit
+30_loop3,Ban sales of new gasoline-powered vehicles.,limit
+26_loop1,Increase the number of public trains.,funding
+28_loop1,Make all public transit free.,funding
+27_loop2,Increase the area covered by public transportation.,funding
+8_loop3,Fund the installation of more electric vehicle charging stations.,funding
+27_loop3,Increase the number of public buses.,funding
+32_loop3,Increase the number of parking spaces for electric vehicles.,funding
+33_loop1,Reduce the number of parking spaces for gasoline-powered vehicles.,limit
+32_loop1,Require that taxi drivers use electric vehicles.,require
+28_loop2,Require that all public buses be electric.,require
+31_loop3,Increase fuel efficiency requirements for cars and trucks.,require
+31_loop1,Subsidize electric vehicle purchases.,subsidy
+9_loop2,"Subsidize purchases of electric bicycles, mopeds, and scooters.",subsidy
+26_loop2,Subsidize travel by train.,subsidy
+32_loop2,Subsidize taxi drivers who use electric vehicles.,subsidy
+33_loop2,Subsidize parking for electric vehicles.,subsidy
+28_loop3,Subsidize travel by all public transportation.,subsidy
+33_loop3,Increase the cost of parking for gasoline-powered vehicles.,tax
+29_loop1,Increase taxes on air travel.,tax
+8_loop2,Increase charges for driving downtown in high-traffic periods.,tax
+29_loop2,Increase taxes on private jet travel.,tax
+30_loop2,Increase taxes on yachts and large boats.,tax
+31_loop2,Increase taxes on gasoline-powered vehicles.,tax
+21_loop3,Increase taxes on gasoline and diesel.,tax
